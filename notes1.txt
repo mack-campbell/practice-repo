@@ -1,3 +1,5 @@
 Ling 2330 is Computational Linguistics.
 
 This uses Python.
+
+- I use Python in the IDLE shell.
