@@ -1,0 +1,3 @@
+Ling 2330 is Computational Linguistics.
+
+This uses Python.

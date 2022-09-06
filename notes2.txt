@@ -1,0 +1,3 @@
+Ling 2340 is Data Science.
+
+This uses R.
